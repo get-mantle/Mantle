@@ -62,6 +62,117 @@ Simulate different network environments:
 
 ---
 
+## 💎 Pricing & Plans
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th align="center">Starter</th>
+      <th align="center">Pro</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>IMEI 1 & IMEI 2</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Hardware Serial</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Bluetooth MAC</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>WiFi MAC & SSID</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Mobile Number</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Advertising ID</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Android ID</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>DRM Media ID</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>SIM Info (Operator, Serial, MCC/MNC)</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Google Services Framework ID (GSF)</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Google Accounts (Gmail)</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Device Spoofing (Model, Manufacturer)</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td><b>GPS with Timezone</b></td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td><b>Proxy with Timezone</b></td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Hide Mock Location</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Profile Creation & Notes</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Group App Management</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Backup/Restore Data</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>One Click Randomize</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## 📥 Installation
 
 1.  **Prerequisites**: Rooted Android device with LSPosed (or compatible Xposed framework).
