@@ -1,4 +1,4 @@
-# Mantle - Device & Identity Spoofing
+# Mantle - A layer between you and apps.
 
 <p align="center">
   <b>Mantle - Device & Identity Spoofing [Xposed Module]</b><br>
